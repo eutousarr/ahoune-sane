@@ -1,0 +1,10 @@
+site_name: Projet CEMAS
+theme:
+  # name: material
+  name: readthedocs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Chapitres: 
+    - Lexique: chapitres/lexique.md
+    - Règlement: chapitres/projet.md
